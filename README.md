@@ -1,1 +1,2 @@
-# hellowhale-master
+# hellowhale
+Simple Docker Demo App
